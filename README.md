@@ -10,9 +10,6 @@ A delightful SwiftUI animation showcase featuring interactive sun and sports bal
 - Simple trigger mechanism for animation control
 - Smooth transitions and fluid movements
 
-## 📱 Preview
-
-[Add your GIF or screenshot here]
 
 ## 🔧 Requirements
 
@@ -24,7 +21,7 @@ A delightful SwiftUI animation showcase featuring interactive sun and sports bal
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/iostanay/ChainedAnimations.git]
+git clone https://github.com/iostanay/ChainedAnimations.git
 ```
 
 2. Open the project in Xcode:
