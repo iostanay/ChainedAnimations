@@ -86,18 +86,7 @@ PhaseAnimator([360, 0], trigger: trigger) { phase in
 }
 ```
 
-## 🤝 Contributing
 
-Contributions are welcome! Feel free to submit a Pull Request.
-
-## 📄 License
-
-
-
-## ✨ Acknowledgments
-
-- Inspired by SwiftUI animation capabilities
-- Built using Apple's SF Symbols
 
 
 
