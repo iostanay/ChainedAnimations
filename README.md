@@ -1,4 +1,4 @@
-# SwiftUI Animation Demo
+# SwiftUI ChainedAnimation Demo
 
 A delightful SwiftUI animation showcase featuring interactive sun and sports ball animations using PhaseAnimator.
 
@@ -24,13 +24,13 @@ A delightful SwiftUI animation showcase featuring interactive sun and sports bal
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
+git clone [https://github.com/iostanay/ChainedAnimations.git]
 ```
 
 2. Open the project in Xcode:
 ```bash
-cd SwiftUIAnimationDemo
-open SwiftUIAnimationDemo.xcodeproj
+cd ChainedAnimations
+open ChainedAnimations.xcodeproj
 ```
 
 3. Build and run the project using Cmd + R
@@ -101,4 +101,8 @@ Contributions are welcome! Feel free to submit a Pull Request.
 
 - Inspired by SwiftUI animation capabilities
 - Built using Apple's SF Symbols
+
+
+
+
 
